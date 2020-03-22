@@ -1,0 +1,12 @@
+C:\Users\James\source\repos\Ass2 Comp Files\Ass2 Comp Files\bin\Debug\Ass2 Comp Files.exe.config
+C:\Users\James\source\repos\Ass2 Comp Files\Ass2 Comp Files\bin\Debug\Ass2 Comp Files.exe
+C:\Users\James\source\repos\Ass2 Comp Files\Ass2 Comp Files\bin\Debug\Ass2 Comp Files.pdb
+C:\Users\James\source\repos\Ass2 Comp Files\Ass2 Comp Files\obj\Debug\Ass2 Comp Files.csprojAssemblyReference.cache
+C:\Users\James\source\repos\Ass2 Comp Files\Ass2 Comp Files\obj\Debug\Ass2 Comp Files.exe
+C:\Users\James\source\repos\Ass2 Comp Files\Ass2 Comp Files\obj\Debug\Ass2 Comp Files.pdb
+C:\Users\James\source\repos\Ass2 Comp Files\Ass2 Comp Files\bin\Debug\GitRepositories_1a.txt
+C:\Users\James\source\repos\Ass2 Comp Files\Ass2 Comp Files\bin\Debug\GitRepositories_1b.txt
+C:\Users\James\source\repos\Ass2 Comp Files\Ass2 Comp Files\bin\Debug\GitRepositories_2a.txt
+C:\Users\James\source\repos\Ass2 Comp Files\Ass2 Comp Files\bin\Debug\GitRepositories_2b.txt
+C:\Users\James\source\repos\Ass2 Comp Files\Ass2 Comp Files\bin\Debug\GitRepositories_3a.txt
+C:\Users\James\source\repos\Ass2 Comp Files\Ass2 Comp Files\bin\Debug\GitRepositories_3b.txt
