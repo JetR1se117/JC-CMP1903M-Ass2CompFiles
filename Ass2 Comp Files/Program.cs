@@ -19,16 +19,43 @@ namespace Ass2_Comp_Files
 
     class DataHandler
     {
-        protected static string getData(string Filepath)
+        protected static string[] getData(string Filepath)
         {
-            string newFile = File.ReadAllText(Filepath); return newFile;
+            string[] newFile = File.ReadAllLines(Filepath); return newFile;
+        }
+
+        protected static void CompareStringLines(string[] fileA, string[] fileB, List<int> index, int length)
+        {
+            for (int i = 0; i < length; i++)
+            {
+                if (fileA[i] != fileB[i])
+                {
+                    index.Add(i);
+                }
+            }
+        }
+
+        protected static int getShortestLength(string[] FileA, string[] FileB)
+        {
+            int Len;
+            int LenA = FileA.Length; int LenB = FileB.Length;
+            if (LenA > LenB)
+                Len = LenB;
+            else
+                Len = LenA;
+            return Len;
         }
     }
+    class Command
+    {
 
+    }
     class FileCompare : DataHandler
     {
-        static string FileA;
-        static string FileB;
+        static List<int> index = new List<int>();
+
+        static string[] FileA;
+        static string[] FileB;
         public static void CompMain()
         {
             FileSelection();
@@ -36,7 +63,7 @@ namespace Ass2_Comp_Files
         }
         static void FileSelection()
         {
-            DisplayFilePaths();
+            //DisplayFilePaths();
             string Ans = "";
             for (int i = 0; i < 2; i++)
             {
@@ -60,16 +87,18 @@ namespace Ass2_Comp_Files
         }
         static void FileComp()
         {
+            int Len = getShortestLength(FileA, FileB);
+            CompareStringLines(FileA, FileB, index, Len);
             if (FileA == FileB)
             {
                 Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine($"a.txt and b.txt are not different");
+                Console.WriteLine($"{FileA} and {FileB} are not different");
                 Console.ResetColor();
             }
             else
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine($"a.txt and b.txt are different");
+                Console.WriteLine($"{FileA} and {FileB} are different");
                 Console.ResetColor();
             }
             Console.WriteLine();
