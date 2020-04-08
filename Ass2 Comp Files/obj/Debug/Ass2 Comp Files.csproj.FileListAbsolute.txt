@@ -10,3 +10,19 @@ C:\Users\James\source\repos\Ass2 Comp Files\Ass2 Comp Files\bin\Debug\GitReposit
 C:\Users\James\source\repos\Ass2 Comp Files\Ass2 Comp Files\bin\Debug\GitRepositories_2b.txt
 C:\Users\James\source\repos\Ass2 Comp Files\Ass2 Comp Files\bin\Debug\GitRepositories_3a.txt
 C:\Users\James\source\repos\Ass2 Comp Files\Ass2 Comp Files\bin\Debug\GitRepositories_3b.txt
+C:\Users\James\Source\Repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\bin\Debug\GitRepositories_1a.txt
+C:\Users\James\Source\Repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\bin\Debug\GitRepositories_1b.txt
+C:\Users\James\Source\Repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\bin\Debug\GitRepositories_2a.txt
+C:\Users\James\Source\Repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\bin\Debug\GitRepositories_2b.txt
+C:\Users\James\Source\Repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\bin\Debug\GitRepositories_3a.txt
+C:\Users\James\Source\Repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\bin\Debug\GitRepositories_3b.txt
+C:\Users\James\Source\Repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\bin\Debug\t1.txt
+C:\Users\James\Source\Repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\bin\Debug\t2.txt
+C:\Users\James\Source\Repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\bin\Debug\Ass2 Comp Files.exe.config
+C:\Users\James\Source\Repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\bin\Debug\Ass2 Comp Files.exe
+C:\Users\James\Source\Repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\bin\Debug\Ass2 Comp Files.pdb
+C:\Users\James\Source\Repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\obj\Debug\Ass2 Comp Files.csprojAssemblyReference.cache
+C:\Users\James\Source\Repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\obj\Debug\Ass2 Comp Files.csproj.CoreCompileInputs.cache
+C:\Users\James\Source\Repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\obj\Debug\Ass2 Comp Files.exe
+C:\Users\James\Source\Repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\obj\Debug\Ass2 Comp Files.pdb
+C:\Users\James\Source\Repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\bin\Debug\t3.txt
