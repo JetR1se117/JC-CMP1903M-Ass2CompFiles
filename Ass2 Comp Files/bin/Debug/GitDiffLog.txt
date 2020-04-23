@@ -1,0 +1,7 @@
+File 1: a.txt; File 2: b.txt; differences: 0; 
+File 1: a.txt; File 2: b.txt; differences: 0; 
+File 1: t1.txt; File 2: t3.txt; differences: 0; 
+File 1: a.txt; File 2: b.txt; differences: 0; 
+File 1: a.txt; File 2: b.txt; differences: 49; 
+File 1: t1.txt; File 2: t2.txt; differences: 53; 
+File 1: t1.txt; File 2: t2.txt; differences: 4; 

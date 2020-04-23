@@ -1,0 +1,15 @@
+C:\Users\James\source\repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\bin\Release\a.txt
+C:\Users\James\source\repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\bin\Release\b.txt
+C:\Users\James\source\repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\bin\Release\GitRepositories_1a.txt
+C:\Users\James\source\repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\bin\Release\GitRepositories_1b.txt
+C:\Users\James\source\repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\bin\Release\GitRepositories_2a.txt
+C:\Users\James\source\repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\bin\Release\GitRepositories_2b.txt
+C:\Users\James\source\repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\bin\Release\GitRepositories_3a.txt
+C:\Users\James\source\repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\bin\Release\GitRepositories_3b.txt
+C:\Users\James\source\repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\bin\Release\Ass2 Comp Files.exe.config
+C:\Users\James\source\repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\bin\Release\Ass2 Comp Files.exe
+C:\Users\James\source\repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\bin\Release\Ass2 Comp Files.pdb
+C:\Users\James\source\repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\obj\Release\Ass2 Comp Files.csprojAssemblyReference.cache
+C:\Users\James\source\repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\obj\Release\Ass2 Comp Files.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\obj\Release\Ass2 Comp Files.exe
+C:\Users\James\source\repos\JetR1se117\JC-CMP1903M-Ass2CompFiles\Ass2 Comp Files\obj\Release\Ass2 Comp Files.pdb

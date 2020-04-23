@@ -1,0 +1,44 @@
+
+
+ New Log :: File 1: a.txt; File 2: b.txt; 
+
+Line 1: [NO CHANGES] 
+Line 2: [ADDED] : 22, 33, 44, 55, 66, 77, 88, 99, , 
+Line 2: [REMOVED] : 12, 13, 14, 15, 16, 17, 18, 19, , 
+Line 3: [ADDED] : 111, 222, 333, 444, 555, 556, 557, 558, 666, , , , 
+Line 3: [REMOVED] : 21, 22, 23, 24, 25, 26, 27, 28, 29, , , , 
+Line 4: [ADDED] : 1111, 2222, 3333, 4444, , , , , , 
+Line 4: [REMOVED] : 31, 32, 33, 34, , , , , , 
+Differences: 49
+
+
+ New Log :: File 1: a.txt; File 2: b.txt; 
+
+Line 1: [NO CHANGES] 
+Line 2: [ADDED] : 22, 33, 44, 55, 66, 77, 88, 99, , 
+Line 2: [REMOVED] : 12, 13, 14, 15, 16, 17, 18, 19, , 
+Line 3: [ADDED] : 111, 222, 333, 444, 555, 556, 557, 558, 666, , , , 
+Line 3: [REMOVED] : 21, 22, 23, 24, 25, 26, 27, 28, 29, , , , 
+Line 4: [ADDED] : 1111, 2222, 3333, 4444, , , , , , 
+Line 4: [REMOVED] : 31, 32, 33, 34, , , , , , 
+Differences: 49
+
+
+ New Log :: File 1: a.txt; File 2: b.txt; 
+
+Line 1: [NO CHANGES] 
+Line 2: [ADDED] : 22, 33, 44, 55, 66, 77, 88, 99, , 
+Line 2: [REMOVED] : 12, 13, 14, 15, 16, 17, 18, 19, , 
+Line 3: [ADDED] : 111, 222, 333, 444, 555, 556, 557, 558, 666, , , , 
+Line 3: [REMOVED] : 21, 22, 23, 24, 25, 26, 27, 28, 29, , , , 
+Line 4: [ADDED] : 1111, 2222, 3333, 4444, , , , , , 
+Line 4: [REMOVED] : 31, 32, 33, 34, , , , , , 
+Differences: 49
+
+
+ New Log :: File 1: GitRepositories_1a.txt; File 2: GitRepositories_1b.txt; 
+
+
+ New Log :: File 1: GitRepositories_1a.txt; File 2: GitRepositories_1b.txt; 
+
+Differences: None
